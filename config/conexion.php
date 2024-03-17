@@ -1,8 +1,8 @@
 <?php
 
-$dataBase = "mysql:dbname=bdName;host=127.0.0.1";
-$user = "usuario";
-$pass = "contrasena";
+$dataBase = "mysql:dbname=primerejercicio;host=127.0.0.1";
+$user = "root";
+$pass = "";
 
 try {
 
